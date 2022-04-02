@@ -1,2 +1,3 @@
 # git_test
-mt first git test
+my first git test
+hello odin!
